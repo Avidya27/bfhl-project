@@ -1,0 +1,4 @@
+"scripts": {
+  "start": "concurrently \"cd my-frontend && npm start\" \"cd bfhl-api && npm start\""
+}
+
